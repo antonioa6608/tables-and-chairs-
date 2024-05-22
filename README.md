@@ -3,7 +3,7 @@ an old friend left you a building with chairs and square tables when he died. Yo
 A customer gave you the diagram below and wants you to give her an estimate of how much it will cost to rent tables & chairs for her wedding. 
 
 # tables-and-chairs-
-wedding rental using java, spring boot, website 
+wedding rental website using spring boot(backend ) frontend ?
 # continuation of advanced java project for wedding rental (tables and chairs) 
 
 # visual 
