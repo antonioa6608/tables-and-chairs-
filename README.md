@@ -15,5 +15,11 @@ wedding rental website using spring boot(backend ) frontend ?
 slogan : 'Elegant Seating Effortless Celebrations' 
 
 
-![IMG_1545](https://github.com/antonioa6608/tables-and-chairs-/assets/90696477/89cb8216-cf2a-462f-afed-f524b5730cad)
+
+![IMG_1545](https://github.com/antonioa6608/tables-and-chairs-/assets/90696477/1d20baae-d232-48b6-ae7b-6e6341e82c26)
+
+#pricing 
+![pricing](https://github.com/antonioa6608/tables-and-chairs-/assets/90696477/5ae4567c-75f5-4a69-82ea-f5229ae6ad94)
+
+
 
