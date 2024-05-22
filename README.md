@@ -10,3 +10,10 @@ wedding rental website using spring boot(backend ) frontend ?
 
 ![IMG_1543](https://github.com/antonioa6608/tables-and-chairs-/assets/90696477/cd6853fa-1baf-4733-988f-581b6ce2a71b)
 
+
+# Name : Chairished Events 
+slogan : 'Elegant Seating Effortless Celebrations' 
+
+
+![IMG_1545](https://github.com/antonioa6608/tables-and-chairs-/assets/90696477/89cb8216-cf2a-462f-afed-f524b5730cad)
+
