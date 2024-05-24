@@ -21,7 +21,7 @@ slogan : 'Elegant Seating Effortless Celebrations'
 # PRICING 
 ![pricing](https://github.com/antonioa6608/tables-and-chairs-/assets/90696477/5ae4567c-75f5-4a69-82ea-f5229ae6ad94)
 
-#Example: 
+# Example: 
 i am having a wedding for the month of July and I am having about 200+ people. About how many chairs and tables would i need ? 
 I would like to rent out for July 12, 2024
 
